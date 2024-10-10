@@ -1,2 +1,1 @@
-# alx-backend-javascript
-short specialisation javascript backend repo
+hort specialisation javascropt backaend repo
